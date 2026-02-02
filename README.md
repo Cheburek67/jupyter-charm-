@@ -9,7 +9,7 @@ pkg update && pkg upgrade
 
 pkg install git
 
-pkg install python3 ruby luarocks (clang will installed too if you installing python)
+pkg install python3 ruby luarocks (clang will be installed too while installing python)
 
 now, clone the repo:
 
