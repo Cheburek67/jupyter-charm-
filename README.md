@@ -21,3 +21,7 @@ cd jupyter-charm
 
 ./run
 
+# python setup
+
+pip install colorama 
+
