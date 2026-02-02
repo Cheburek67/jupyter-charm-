@@ -17,7 +17,7 @@ git clone "url.git"
 
 # run
 
-cd jupyter-charm 
+cd jupyter-charm-
 
 ./run
 
